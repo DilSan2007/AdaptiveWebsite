@@ -1,2 +1,7 @@
-# AdaptiveWebsite
-My_First_Adaptive_Website
+# Адаптивный сайт
+
+технологии ( стек ):
+
+ JavaScript 
+ Html/CSS
+ SCSS
